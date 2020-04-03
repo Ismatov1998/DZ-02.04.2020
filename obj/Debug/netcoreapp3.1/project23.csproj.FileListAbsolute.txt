@@ -1,0 +1,11 @@
+C:\project23\Aziz5\bin\Debug\netcoreapp3.1\project23.exe
+C:\project23\Aziz5\bin\Debug\netcoreapp3.1\project23.deps.json
+C:\project23\Aziz5\bin\Debug\netcoreapp3.1\project23.runtimeconfig.json
+C:\project23\Aziz5\bin\Debug\netcoreapp3.1\project23.runtimeconfig.dev.json
+C:\project23\Aziz5\bin\Debug\netcoreapp3.1\project23.dll
+C:\project23\Aziz5\bin\Debug\netcoreapp3.1\project23.pdb
+C:\project23\Aziz5\obj\Debug\netcoreapp3.1\project23.csprojAssemblyReference.cache
+C:\project23\Aziz5\obj\Debug\netcoreapp3.1\project23.AssemblyInfoInputs.cache
+C:\project23\Aziz5\obj\Debug\netcoreapp3.1\project23.AssemblyInfo.cs
+C:\project23\Aziz5\obj\Debug\netcoreapp3.1\project23.dll
+C:\project23\Aziz5\obj\Debug\netcoreapp3.1\project23.pdb

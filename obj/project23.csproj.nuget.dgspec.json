@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\project23\\Aziz5\\project23.csproj": {}
+    "C:\\project23\\Aziz5\\project23.csproj": {}
   },
   "projects": {
-    "c:\\project23\\Aziz5\\project23.csproj": {
+    "C:\\project23\\Aziz5\\project23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\project23\\Aziz5\\project23.csproj",
+        "projectUniqueName": "C:\\project23\\Aziz5\\project23.csproj",
         "projectName": "project23",
-        "projectPath": "c:\\project23\\Aziz5\\project23.csproj",
+        "projectPath": "C:\\project23\\Aziz5\\project23.csproj",
         "packagesPath": "C:\\Users\\Aziz\\.nuget\\packages\\",
-        "outputPath": "c:\\project23\\Aziz5\\obj\\",
+        "outputPath": "C:\\project23\\Aziz5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aziz\\AppData\\Roaming\\NuGet\\NuGet.Config"

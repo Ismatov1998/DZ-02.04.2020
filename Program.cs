@@ -7,6 +7,7 @@ namespace MyfirstClass
         static void Main()
         {
           double a,b;
+          Console.WriteLine("Введите значения a и b");
           a=Convert.ToInt32(Console.ReadLine());
           b=Convert.ToInt32(Console.ReadLine());
           Rectangle Aziz =new Rectangle(a,b);
