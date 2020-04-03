@@ -27,11 +27,13 @@ namespace MyfirstClass
       }
       public void AreaCalculator()
       {
-        
+        this.area=this.side1*this.side2;
+       Console.WriteLine($"Периметр = {this.side1*this.side2}");
       }
        public void PerimetrCalculator()
       {
-       
+        this.perimetr=2*(this.side1+this.side2);
+        Console.WriteLine($"Площадь = {2*(this.side1+this.side2)}");
       }
       
     }
